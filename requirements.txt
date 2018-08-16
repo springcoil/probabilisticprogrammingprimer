@@ -17,7 +17,7 @@ cffi==1.11.5
 changefinder==0.3
 chardet==3.0.4
 colorama==0.3.9
-cryptography==2.2.1
+cryptography==2.3
 cycler==0.10.0
 Cython==0.28.1
 decorator==4.2.1
