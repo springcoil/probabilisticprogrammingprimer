@@ -33,8 +33,6 @@ ipykernel==4.8.2
 ipython==6.2.1
 ipython-genutils==0.2.0
 ipywidgets==7.1.2
--e git+git@github.com:springcoil/irishartbot.git@171067e7022a0310eb02e026f6ab9cefbfb44911#egg=irish_art_bot
--e git+git@github.com:springcoil/irishartbot.git@171067e7022a0310eb02e026f6ab9cefbfb44911#egg=irishartbot
 jedi==0.11.1
 Jinja2==2.10
 jmespath==0.9.3
@@ -54,7 +52,6 @@ mizani==0.4.6
 mkl-fft==1.0.0
 mkl-random==1.0.1
 more-itertools==4.2.0
--e git+https://github.com/jbmohler/mortgage.git@e4ecef1eeeceebfc51f3421f077727e5abefee17#egg=Mortgage
 nb-conda==2.2.1
 nb-conda-kernels==2.1.0
 nbconvert==5.3.1
@@ -99,7 +96,6 @@ qtconsole==4.3.1
 requests==2.14.2
 requests-oauthlib==1.0.0
 rsa==3.4.2
-s3transfer==0.1.13
 scikit-learn==0.19.1
 scipy==1.1.0
 seaborn==0.8.1
