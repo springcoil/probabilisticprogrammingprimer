@@ -74,8 +74,6 @@ py==1.5.4
 pyasn1==0.4.4
 pycparser==2.18
 Pygments==2.2.0
-pygpu==0.7.5
-PyJWT==1.6.4
 pymc3==3.5
 pyOpenSSL==17.5.0
 pyparsing==2.2.0
