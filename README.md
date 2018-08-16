@@ -9,5 +9,5 @@
 	4. What is NUTS
 
 
-
+[!Link to course](https://www.probabilisticprogrammingprimer.com/) 
 - Note: Data is fake data however it's inspired by some work done on a PPC campaign in the past. 
