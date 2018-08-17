@@ -6,8 +6,6 @@ kiwisolver==1.0.1
 Mako==1.0.7
 MarkupSafe==1.0
 matplotlib==2.2.3
-mkl-fft==1.0.5
-mkl-random==1.0.1
 numpy==1.14.3
 pandas==0.23.4
 patsy==0.5.0
