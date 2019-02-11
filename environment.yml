@@ -8,16 +8,14 @@ dependencies:
   - certifi=2018.11.29=py36_1000
   - cycler=0.10.0=py_1
   - freetype=2.9.1=h597ad8a_1005
-  - h5py=2.9.0=nompi_py36h35dc34b_1102
-  - hdf5=1.10.4=nompi_h646315f_1105
+  - h5py=2.9.0
+  - hdf5=1.10.4
   - intel-openmp=2019.1=144
   - joblib=0.12.5=py_0
-  - kiwisolver=1.0.1=py36h04f5b5a_1002
+  - kiwisolver=1.0.1
   - libcxx=7.0.0=h2d50403_2
-  - libffi=3.2.1=h0a44026_1005
-  - libgfortran=3.0.1=h93005f0_2
-  - libgpuarray=0.7.6=h1de35cc_1003
-  - libpng=1.6.36=ha441bb4_1000
+  - libffi=3.2.1
+  - libpng=1.6.36
   - llvm-meta=7.0.0=0
   - mako=1.0.7=py_1
   - markupsafe=1.1.0=py36h1de35cc_1000
@@ -25,31 +23,29 @@ dependencies:
   - matplotlib-base=3.0.2=py36hf043ca5_1002
   - mkl=2019.1=144
   - mkl_fft=1.0.10=py36h1de35cc_1
-  - mkl_random=1.0.2=py36h1702cab_2
-  - ncurses=6.1=h0a44026_1002
-  - numpy=1.15.4=py36hacdab7b_0
-  - numpy-base=1.15.4=py36h6575580_0
-  - openssl=1.1.1a=h1de35cc_1000
-  - pandas=0.24.1=py36h0a44026_0
+  - mkl_random
+  - ncurses
+  - numpy=1.15.4
+  - numpy-base=1.15.4
+  - openssl
+  - pandas=0.24.1
   - patsy=0.5.1=py_0
   - pip=19.0.2=py36_0
   - pygpu=0.7.6=py36h917ab60_1000
   - pymc3=3.6=py36_1000
   - pyparsing=2.3.1=py_0
-  - python=3.6.8=haf84260_0
   - python-dateutil=2.8.0=py_0
   - pytz=2018.9=py_0
-  - readline=7.0=hcfe32e1_1001
-  - scipy=1.2.0=py36h1410ff5_0
+  - readline
+  - scipy=1.2.0
   - setuptools=40.8.0=py36_0
   - six=1.12.0=py36_1000
-  - sqlite=3.26.0=h1765d9f_1000
+  - sqlite
   - theano=1.0.3=py36_0
-  - tk=8.6.9=ha441bb4_1000
-  - tornado=5.1.1=py36h1de35cc_1000
+  - tornado
   - tqdm=4.31.1=py_0
   - wheel=0.32.3=py36_0
-  - xz=5.2.4=h1de35cc_1001
-  - zlib=1.2.11=h1de35cc_1004
+  - xz
+  - zlib
 prefix: /Users/peadarcoyle/miniconda3/envs/pymc3_ppp
 
