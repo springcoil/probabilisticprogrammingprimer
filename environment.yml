@@ -7,7 +7,7 @@ dependencies:
   - ca-certificates=2018.11.29=ha4d7672_0
   - certifi=2018.11.29=py36_1000
   - cycler=0.10.0=py_1
-  - freetype=2.9.1=h597ad8a_1005
+  - freetype=2.9.1
   - h5py=2.9.0
   - hdf5=1.10.4
   - intel-openmp=2019.1=144
@@ -18,11 +18,11 @@ dependencies:
   - libpng=1.6.36
   - llvm-meta=7.0.0=0
   - mako=1.0.7=py_1
-  - markupsafe=1.1.0=py36h1de35cc_1000
-  - matplotlib=3.0.2=py36_1002
-  - matplotlib-base=3.0.2=py36hf043ca5_1002
+  - markupsafe=1.1.0
+  - matplotlib=3.0.2
+  - matplotlib-base=3.0.2
   - mkl=2019.1=144
-  - mkl_fft=1.0.10=py36h1de35cc_1
+  - mkl_fft=1.0.10
   - mkl_random
   - ncurses
   - numpy=1.15.4
@@ -31,7 +31,7 @@ dependencies:
   - pandas=0.24.1
   - patsy=0.5.1=py_0
   - pip=19.0.2=py36_0
-  - pygpu=0.7.6=py36h917ab60_1000
+  - pygpu=0.7.6
   - pymc3=3.6=py36_1000
   - pyparsing=2.3.1=py_0
   - python-dateutil=2.8.0=py_0
