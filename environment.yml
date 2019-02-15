@@ -37,6 +37,7 @@ dependencies:
   - python-dateutil=2.8.0=py_0
   - pytz=2018.9=py_0
   - readline
+  - seaborn
   - scipy=1.2.0
   - setuptools=40.8.0=py36_0
   - six=1.12.0=py36_1000
