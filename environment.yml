@@ -13,7 +13,6 @@ dependencies:
   - intel-openmp=2019.1=144
   - joblib=0.12.5=py_0
   - kiwisolver=1.0.1
-  - libcxx=7.0.0=h2d50403_2
   - libffi=3.2.1
   - libpng=1.6.36
   - llvm-meta=7.0.0=0
