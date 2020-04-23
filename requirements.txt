@@ -1,0 +1,23 @@
+# Tested on Python 3.6
+# Data libs
+pymc3
+theano
+mkl
+mkl-service
+pandas
+numpy
+scipy
+
+# Plotting
+arviz>=0.7
+matplotlib
+seaborn
+pydot
+graphviz
+
+# Notebook
+jupyter
+notebook
+
+# Reproducibility
+watermark

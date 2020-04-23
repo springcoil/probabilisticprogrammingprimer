@@ -1,51 +1,22 @@
-name: pymc3_ppp
+name: ppp
 channels:
-  - conda-forge
+  - anaconda
   - defaults
+  - conda-forge
 dependencies:
-  - blas=1.0=mkl
-  - ca-certificates=2018.11.29=ha4d7672_0
-  - certifi=2018.11.29=py36_1000
-  - cycler=0.10.0=py_1
-  - freetype=2.9.1
-  - h5py=2.9.0
-  - hdf5=1.10.4
-  - intel-openmp=2019.1=144
-  - joblib=0.12.5=py_0
-  - kiwisolver=1.0.1
-  - libffi=3.2.1
-  - libpng=1.6.36
-  - llvm-meta=7.0.0=0
-  - mako=1.0.7=py_1
-  - markupsafe=1.1.0
-  - matplotlib=3.0.2
-  - matplotlib-base=3.0.2
-  - mkl=2019.1=144
-  - mkl_fft=1.0.10
-  - mkl_random
-  - ncurses
-  - numpy=1.15.4
-  - numpy-base=1.15.4
-  - openssl
-  - pandas=0.24.1
-  - patsy=0.5.1=py_0
-  - pip=19.0.2=py36_0
-  - pygpu=0.7.6
-  - pymc3=3.6=py36_1000
-  - pyparsing=2.3.1=py_0
-  - python-dateutil=2.8.0=py_0
-  - pytz=2018.9=py_0
-  - readline
+  - python=3.6
+  - notebook
+  - mkl
+  - graphviz
   - seaborn
-  - scipy=1.2.0
-  - setuptools=40.8.0=py36_0
-  - six=1.12.0=py36_1000
-  - sqlite
-  - theano=1.0.3=py36_0
-  - tornado
-  - tqdm=4.31.1=py_0
-  - wheel=0.32.3=py36_0
-  - xz
-  - zlib
-prefix: /Users/peadarcoyle/miniconda3/envs/pymc3_ppp
-
+  - pydot
+  - matplotlib
+  - arviz[version='>=0.7']
+  - pymc3
+  - scipy
+  - pandas
+  - theano
+  - numpy
+  - mkl-service
+  - watermark
+  - jupyter
