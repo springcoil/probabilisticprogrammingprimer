@@ -13,7 +13,7 @@
 - Note: Data is fake data however it's inspired by some work done on a PPC campaign in the past. 
 
 # Following the course on PyMC v3.8
-The latest version of PyMC is v3.8.  There are significant API changes from previous versions.
+The latest version of PyMC is v3.8.  There are significant API changes from previous versions so some of these notebooks may be slightly different to the course videos.
 
 See notebooks provided by Mark Farragher to follow the course on PyMC v3.8 under the `notebooks/pymc38` directory.
 
