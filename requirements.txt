@@ -1,9 +1,9 @@
-# Tested on Python 3.6
+# Tested on Python 3.8
 # Data libs
-pymc3
+pymc3==3.9
 theano
 mkl
-mkl-service
+
 pandas
 numpy
 scipy
