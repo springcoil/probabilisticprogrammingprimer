@@ -1,6 +1,6 @@
 # Tested on Python 3.8
 # Data libs
-pymc3==3.9
+pymc3==3.10
 theano
 mkl
 
