@@ -1,23 +1,93 @@
-# Tested on Python 3.8
-# Data libs
-pymc3==3.10
-theano
-mkl
-
-pandas
-numpy
-scipy
-
-# Plotting
-arviz>=0.7
-matplotlib
-seaborn
-pydot
-graphviz
-
-# Notebook
-jupyter
-notebook
-
-# Reproducibility
-watermark
+absl-py @ file:///Users/runner/miniforge3/conda-bld/absl-py_1606235617667/work
+appnope @ file:///opt/concourse/worker/volumes/live/5f13e5b3-5355-4541-5fc3-f08850c73cf9/volume/appnope_1606859448618/work
+argon2-cffi @ file:///opt/concourse/worker/volumes/live/59af29ac-4890-416e-7ab7-794f8d6f7ecd/volume/argon2-cffi_1596828548321/work
+arviz @ file:///home/conda/feedstock_root/build_artifacts/arviz_1600909298598/work
+async-generator==1.10
+attrs @ file:///tmp/build/80754af9/attrs_1604765588209/work
+backcall==0.2.0
+bleach @ file:///tmp/build/80754af9/bleach_1600439572647/work
+cached-property==1.5.1
+certifi==2020.12.5
+cffi @ file:///opt/concourse/worker/volumes/live/730e9a28-66f9-4e03-51ad-252ec8e40d81/volume/cffi_1606255126408/work
+cftime @ file:///Users/runner/miniforge3/conda-bld/cftime_1605566784197/work
+cycler==0.10.0
+decorator==4.4.2
+defusedxml==0.6.0
+entrypoints==0.3
+fastprogress==1.0.0
+graphviz @ file:///home/conda/feedstock_root/build_artifacts/python-graphviz_1605462368198/work
+h5py @ file:///Users/runner/miniforge3/conda-bld/h5py_1604753665273/work
+importlib-metadata @ file:///tmp/build/80754af9/importlib-metadata_1602276842396/work
+intel-openmp==2019.0
+ipykernel @ file:///opt/concourse/worker/volumes/live/88f541d3-5a27-498f-7391-f2e50ca36560/volume/ipykernel_1596206680118/work/dist/ipykernel-5.3.4-py3-none-any.whl
+ipython @ file:///opt/concourse/worker/volumes/live/26969e8f-c9f7-42dc-6ffb-b3effd424c49/volume/ipython_1604101242376/work
+ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
+ipywidgets==7.5.1
+jax @ file:///home/conda/feedstock_root/build_artifacts/jax_1607155941616/work
+jaxlib @ file:///Users/runner/miniforge3/conda-bld/jaxlib_1602648340228/work/jaxlib-0.1.56-cp38-none-macosx_10_9_x86_64.whl
+jedi @ file:///opt/concourse/worker/volumes/live/bd2e4eb2-df59-4bd6-4802-01c9ab8f36aa/volume/jedi_1608920706165/work
+Jinja2==2.11.2
+jsonschema @ file:///tmp/build/80754af9/jsonschema_1602607155483/work
+jupyter==1.0.0
+jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1601311786391/work
+jupyter-console==6.2.0
+jupyter-core @ file:///opt/concourse/worker/volumes/live/e8302867-5dbe-440b-7a37-f61bacc38ed8/volume/jupyter_core_1606148993907/work
+jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
+kiwisolver @ file:///Users/runner/miniforge3/conda-bld/kiwisolver_1604323069108/work
+Mako @ file:///home/conda/feedstock_root/build_artifacts/mako_1595925083607/work
+MarkupSafe @ file:///opt/concourse/worker/volumes/live/cb778296-98db-45ad-411e-6f726e102dc3/volume/markupsafe_1594371638608/work
+matplotlib @ file:///Users/runner/miniforge3/conda-bld/matplotlib-suite_1605180218063/work
+mistune @ file:///opt/concourse/worker/volumes/live/95802d64-d39c-491b-74ce-b9326880ca54/volume/mistune_1594373201816/work
+mkl==2019.0
+nb-conda-kernels @ file:///opt/concourse/worker/volumes/live/b3a72065-b185-4c56-7e48-f0d3c36d4283/volume/nb_conda_kernels_1600445355534/work
+nbclient @ file:///tmp/build/80754af9/nbclient_1602783176460/work
+nbconvert @ file:///opt/concourse/worker/volumes/live/2b9c1d93-d0fd-432f-7d93-66c93d81b614/volume/nbconvert_1601914875037/work
+nbformat @ file:///tmp/build/80754af9/nbformat_1602783287752/work
+nest-asyncio @ file:///tmp/build/80754af9/nest-asyncio_1606153767164/work
+netCDF4 @ file:///Users/runner/miniforge3/conda-bld/netcdf4_1608338528609/work
+notebook @ file:///opt/concourse/worker/volumes/live/d85c0794-1357-4fff-61be-761a5e60b85b/volume/notebook_1608835566278/work
+numpy @ file:///Users/runner/miniforge3/conda-bld/numpy_1607937594810/work
+olefile @ file:///home/conda/feedstock_root/build_artifacts/olefile_1602866521163/work
+opt-einsum==0+untagged.61.gd905544.dirty
+packaging @ file:///tmp/build/80754af9/packaging_1607971725249/work
+pandas==1.2.0
+pandocfilters @ file:///opt/concourse/worker/volumes/live/c330e404-216d-466b-5327-8ce8fe854d3a/volume/pandocfilters_1605120442288/work
+parso==0.7.1
+patsy==0.5.1
+pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+Pillow @ file:///Users/runner/miniforge3/conda-bld/pillow_1604748707307/work
+prometheus-client @ file:///tmp/build/80754af9/prometheus_client_1606344362066/work
+prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1602688806899/work
+protobuf==3.14.0
+ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1605560620615/work/dist/ptyprocess-0.6.0-py2.py3-none-any.whl
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+pydot==1.4.1
+Pygments @ file:///tmp/build/80754af9/pygments_1607368905949/work
+pygpu==0.7.6
+pymc3==3.9.0
+pyparsing==2.4.7
+pyrsistent @ file:///opt/concourse/worker/volumes/live/ff11f3f0-615b-4508-471d-4d9f19fa6657/volume/pyrsistent_1600141727281/work
+python-dateutil==2.8.1
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1608904108784/work
+pyzmq==20.0.0
+qtconsole==5.0.1
+QtPy==1.9.0
+scipy==1.5.4
+seaborn==0.11.0
+Send2Trash @ file:///tmp/build/80754af9/send2trash_1607525499227/work
+six @ file:///opt/concourse/worker/volumes/live/5b31cb27-1e37-4ca5-6e9f-86246eb206d2/volume/six_1605205320872/work
+terminado==0.9.1
+testpath==0.4.4
+Theano==1.0.4
+Theano-PyMC @ file:///Users/runner/miniforge3/conda-bld/theano-pymc_1608022093639/work
+tornado @ file:///opt/concourse/worker/volumes/live/05341796-4198-4ded-4a9a-332fde3cdfd1/volume/tornado_1606942323372/work
+tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1608900042843/work
+traitlets @ file:///tmp/build/80754af9/traitlets_1602787416690/work
+typing-extensions==3.7.4.3
+watermark==2.1.0
+wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+webencodings==0.5.1
+widgetsnbextension==3.5.1
+xarray @ file:///home/conda/feedstock_root/build_artifacts/xarray_1606798576866/work
+zipp @ file:///tmp/build/80754af9/zipp_1604001098328/work
