@@ -11,8 +11,8 @@ dependencies:
   - pydot
   - matplotlib
   - arviz
-  - theano-pymc 
   - pymc3
+  - theano-pymc 
   - scipy
   - pandas
   - numpy
