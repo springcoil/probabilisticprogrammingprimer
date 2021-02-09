@@ -1,21 +1,20 @@
 name: ppp
 channels:
-  - anaconda
   - defaults
   - conda-forge
 dependencies:
-  - python=3.6
+  - python=3.8
   - notebook
   - mkl
   - graphviz
   - seaborn
   - pydot
   - matplotlib
-  - arviz[version='>=0.7']
+  - arviz
+  - theano-pymc 
   - pymc3
   - scipy
   - pandas
-  - theano
   - numpy
   - mkl-service
   - watermark
